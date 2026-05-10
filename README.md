@@ -19,7 +19,7 @@ The notebook covers the full data science preprocessing pipeline including:
 The project uses:
 - `customer_credit_risk_dataset_12000.csv`
 - `customer_credit_risk_dataset_12000.json`
-- SQLite Database (template included)
+- `customer_credit_risk_dataset_12000.db`
 
 ---
 
